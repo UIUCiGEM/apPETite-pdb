@@ -1,2 +1,3 @@
 # apPETite-pdb
-Robetta pdb files 
+PDB files from model section.
+Robetta pdb files
